@@ -22,6 +22,7 @@ int main()
 - gh: pwd less auth
 - gh: create new repo
 - vs: clone repo
+- gh: set uname, email
 - vs: new branch
 - vs: Add .gitignore
 - vs: update .gitignore .history
