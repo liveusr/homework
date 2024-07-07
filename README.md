@@ -3,7 +3,7 @@
 - Add .gitignore
 - Try something new!
 
-```bash
+```C
 #include <stdio.h>
 
 int main()
